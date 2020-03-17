@@ -1,0 +1,1 @@
+SELECT AVG(preco),AVG(carboidratos),AVG(calorias),COUNT(DISTINCT cor) FROM info_bebidas;

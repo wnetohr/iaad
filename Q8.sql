@@ -1,0 +1,1 @@
+SELECT * FROM info_bebidas WHERE preco BETWEEN 3 AND 4;
